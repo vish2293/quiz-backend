@@ -29,8 +29,9 @@ php artisan db:seed
 php artisan serve
 ```
 
-Verify the deployment by navigating to your server address in
-your preferred browser.
+Verify the deployment by navigating to your server address in your preferred browser.
+The default URL is:
+> http://localhost:8000
 
 # API URLs
 
